@@ -1,4 +1,4 @@
-Este arquivo explica o projeto, as tecnologias usadas e o passo a passo para a execução, facilitando para qualquer pessoa que acesse seu GitHub.
+Este arquivo explica o projeto, as tecnologias usadas e o passo a passo para a execução, facilitando para qualquer pessoa que acesse e necessite da API.
 
 -----
 # rogarfil\_api
