@@ -1,11 +1,6 @@
-Claro\! Com base nas informações e nos procedimentos que você realizou, preparei um arquivo `README.md` completo e bem estruturado para o seu repositório.
-
 Este arquivo explica o projeto, as tecnologias usadas e o passo a passo para a execução, facilitando para qualquer pessoa que acesse seu GitHub.
 
 -----
-
-### `README.md`
-
 # rogarfil\_api
 
 Este repositório contém uma **Minimal API** desenvolvida em C\# com .NET, seguindo os princípios de uma API mínima para fornecer endpoints de autenticação, CRUD de usuários e gerenciamento de banco de dados. O projeto foi criado como parte do desafio prático da plataforma Digital Innovation One (DIO), com o objetivo de replicar e aprimorar um projeto de destaque.
